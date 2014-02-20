@@ -35,7 +35,10 @@ You see often commands like:
 
 This means that there is still a connection request somewhere. It can be also a request done by the same app, but you switched temporarily to look at an email or something. Just be lazy and turn off and on Bluetooth as a habit. This is very likely due to some bugs in the bluetooth stack of Samsung and not much you can do about it. Perhaps except for one thing. Change the code to a disconnect before a connect. I've to check that.
 
+# License
+
+This project is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+
 # Copyright 
 
-Copyright belongs to Lann. This is a fork from https://github.com/lann/RFDuinoTest.
-
+Copyright 2013 Lann
